@@ -1,0 +1,31 @@
+*{
+	font-family: 'Acme', sans-serif;
+}
+.navbar-brand h1{
+	color: green;
+	font-size: 1.8em;
+	margin-top: 0px;
+}
+
+.content-box{
+	background-color: lightgrey;
+	padding-top: 10px;
+}
+
+h2 {
+	font-family: 'Acme', sans-serif; 
+	margin-top: 15px;
+	margin-bottom: 15px;
+	color: green;
+}
+
+h3 {
+	color: blue; 
+}
+
+#nav-list li {
+	
+	font-size: 1.8em;
+	margin: 7px;
+}
+
